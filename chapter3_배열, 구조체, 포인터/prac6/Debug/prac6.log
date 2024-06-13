@@ -1,0 +1,4 @@
+﻿  prac6.c
+C:\Users\Lee\OneDrive\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter3_배열, 구조체, 포인터\prac6\prac6.c(9,4): warning C4101: 'c1' :참조되지 않은 지역 변수입니다.
+C:\Users\Lee\OneDrive\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter3_배열, 구조체, 포인터\prac6\prac6.c(9,8): warning C4101: 'c2' :참조되지 않은 지역 변수입니다.
+  prac6.vcxproj -> C:\Users\Lee\OneDrive\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter3_배열, 구조체, 포인터\prac6\Debug\prac6.exe

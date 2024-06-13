@@ -1,0 +1,7 @@
+﻿  prac10.c
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter6_연결리스트1\prac10\prac10.c(13,35): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter6_연결리스트1\prac10\prac10.c(17,37): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter6_연결리스트1\prac10\prac10.c(19,15): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter6_연결리스트1\prac10\prac10.c(25,31): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter6_연결리스트1\prac10\prac10.c(20): warning C4716: 'append': 값을 반환해야 합니다.
+  prac10.vcxproj -> C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter6_연결리스트1\prac10\Debug\prac10.exe

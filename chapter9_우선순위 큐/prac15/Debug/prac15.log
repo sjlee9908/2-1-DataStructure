@@ -1,0 +1,5 @@
+﻿  prac15.c
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter9_우선순위 큐\prac15\prac15.c(24,17): warning C4552: '!=': 식의 결과가 사용되지 않습니다.
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter9_우선순위 큐\prac15\prac15.c(49,18): warning C4552: '!=': 식의 결과가 사용되지 않습니다.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: _main"int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter9_우선순위 큐\prac15\Debug\prac15.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

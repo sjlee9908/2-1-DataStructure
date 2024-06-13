@@ -1,0 +1,4 @@
+﻿  프로그램5-5.c
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter5_큐\프로그램5-5\프로그램5-5.c(39,11): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter5_큐\프로그램5-5\프로그램5-5.c(72,12): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  프로그램5-5.vcxproj -> C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter5_큐\프로그램5-5\Debug\프로그램5-5.exe

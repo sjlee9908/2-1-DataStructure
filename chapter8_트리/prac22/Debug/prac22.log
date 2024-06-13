@@ -1,0 +1,5 @@
+﻿  prac22.c
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter8_트리\prac22\prac22.c(13,35): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter8_트리\prac22\prac22.c(33): warning C4716: 'search_': 값을 반환해야 합니다.
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter8_트리\prac22\prac22.c(45): warning C4716: 'delete_': 값을 반환해야 합니다.
+  prac22.vcxproj -> C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter8_트리\prac22\Debug\prac22.exe

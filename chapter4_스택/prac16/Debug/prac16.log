@@ -1,0 +1,7 @@
+﻿  prac16.c
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter4_스택\prac16\prac16.c(37,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter4_스택\prac16\prac16.c(58,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter4_스택\prac16\prac16.c(65,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter4_스택\prac16\prac16.c(48): warning C4715: 'peek': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter4_스택\prac16\prac16.c(40): warning C4715: 'pop': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  prac16.vcxproj -> C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter4_스택\prac16\Debug\prac16.exe

@@ -1,0 +1,5 @@
+﻿  프로그램7-12.c
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter7_연결리스트2\프로그램7-12\프로그램7-12.c(35,23): warning C4133: '=': 'QueueNode *'과(와) 'QueueNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter7_연결리스트2\프로그램7-12\프로그램7-12.c(49,28): warning C4133: '=': 'QueueNode *'과(와) 'QueueNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter7_연결리스트2\프로그램7-12\프로그램7-12.c(59,43): warning C4133: '=': 'QueueNode *'과(와) 'QueueNode *' 사이의 형식이 호환되지 않습니다.
+  프로그램7-12.vcxproj -> C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter7_연결리스트2\프로그램7-12\Debug\프로그램7-12.exe

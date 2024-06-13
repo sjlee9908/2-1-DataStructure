@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "프로그램 2.8", "프로그램 2.8\프로그램 2.8.vcxproj", "{BD527E30-1892-42B8-A637-2D3B0BB2174B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD527E30-1892-42B8-A637-2D3B0BB2174B}.Debug|x64.ActiveCfg = Debug|x64
+		{BD527E30-1892-42B8-A637-2D3B0BB2174B}.Debug|x64.Build.0 = Debug|x64
+		{BD527E30-1892-42B8-A637-2D3B0BB2174B}.Debug|x86.ActiveCfg = Debug|Win32
+		{BD527E30-1892-42B8-A637-2D3B0BB2174B}.Debug|x86.Build.0 = Debug|Win32
+		{BD527E30-1892-42B8-A637-2D3B0BB2174B}.Release|x64.ActiveCfg = Release|x64
+		{BD527E30-1892-42B8-A637-2D3B0BB2174B}.Release|x64.Build.0 = Release|x64
+		{BD527E30-1892-42B8-A637-2D3B0BB2174B}.Release|x86.ActiveCfg = Release|Win32
+		{BD527E30-1892-42B8-A637-2D3B0BB2174B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4B1515A-94C1-4E60-AA7D-74A7960FD6C3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+﻿  prac4.cpp
+C:\Users\Lee\OneDrive\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter3_배열, 구조체, 포인터\prac4\prac4.cpp(7,15): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  prac4.vcxproj -> C:\Users\Lee\OneDrive\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter3_배열, 구조체, 포인터\prac4\Debug\prac4.exe

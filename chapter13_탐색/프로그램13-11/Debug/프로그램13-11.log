@@ -1,0 +1,4 @@
+﻿  프로그램13-11.c
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter13_탐색\프로그램13-11\프로그램13-11.c(22,41): warning C4047: 'return': 'Tree23Node *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: _main"int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\CS\C언어로 쉽게 풀어쓴 자료구조(생능출판, 천인국외2명)\chapter13_탐색\프로그램13-11\Debug\프로그램13-11.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "프로그램13-7", "프로그램13-7.vcxproj", "{C6CFD24B-6458-46C3-A59A-6DB885D4F542}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6CFD24B-6458-46C3-A59A-6DB885D4F542}.Debug|x64.ActiveCfg = Debug|x64
+		{C6CFD24B-6458-46C3-A59A-6DB885D4F542}.Debug|x64.Build.0 = Debug|x64
+		{C6CFD24B-6458-46C3-A59A-6DB885D4F542}.Debug|x86.ActiveCfg = Debug|Win32
+		{C6CFD24B-6458-46C3-A59A-6DB885D4F542}.Debug|x86.Build.0 = Debug|Win32
+		{C6CFD24B-6458-46C3-A59A-6DB885D4F542}.Release|x64.ActiveCfg = Release|x64
+		{C6CFD24B-6458-46C3-A59A-6DB885D4F542}.Release|x64.Build.0 = Release|x64
+		{C6CFD24B-6458-46C3-A59A-6DB885D4F542}.Release|x86.ActiveCfg = Release|Win32
+		{C6CFD24B-6458-46C3-A59A-6DB885D4F542}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {128127D2-55FB-434B-9E35-C814332FD25E}
+	EndGlobalSection
+EndGlobal
